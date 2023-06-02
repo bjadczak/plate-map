@@ -1,3 +1,7 @@
+# No windows or Linux apps
+windows/
+linux/
+
 # Miscellaneous
 *.class
 *.log
